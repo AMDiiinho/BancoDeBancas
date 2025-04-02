@@ -19,4 +19,6 @@ public interface PessoaService {
     
     public List<PessoaDTO> listar();
     
+    public void testar();
+    
 }
